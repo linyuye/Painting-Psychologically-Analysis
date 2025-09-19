@@ -1,0 +1,55 @@
+2025-05-05 15:59:53,833 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250505_155948_versions\linyuye2004_20250505_155948_temp_v001.png
+2025-05-05 15:59:55,838 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250505_155948_versions\linyuye2004_20250505_155948_temp_v002.png
+2025-05-05 16:00:23,862 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250505_155948_versions\linyuye2004_20250505_155948_temp_v003.png
+2025-05-05 16:00:28,869 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250505_155948_versions\linyuye2004_20250505_155948_temp_v004.png
+2025-05-05 16:00:30,872 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250505_155948_versions\linyuye2004_20250505_155948_temp_v005.png
+2025-05-05 16:00:31,874 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250505_155948_versions\linyuye2004_20250505_155948_temp_v006.png
+2025-05-05 16:00:36,880 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250505_155948_versions\linyuye2004_20250505_155948_temp_v007.png
+2025-05-05 16:00:42,370 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
+2025-05-05 16:00:42,887 - INFO - 保存最终版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250505_155948_versions\linyuye2004_20250505_155948_temp_v008.png
+2025-05-05 16:04:56,626 - INFO - HTTP Request: POST https://api.coze.cn/v1/workflow/run "HTTP/1.1 200 OK"
+2025-06-04 16:58:03,283 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_165754_versions\linyuye2004_20250604_165754_temp_v001.png
+2025-06-04 16:58:04,288 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_165754_versions\linyuye2004_20250604_165754_temp_v002.png
+2025-06-04 16:58:05,290 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_165754_versions\linyuye2004_20250604_165754_temp_v003.png
+2025-06-04 16:58:08,292 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_165754_versions\linyuye2004_20250604_165754_temp_v004.png
+2025-06-04 16:58:11,295 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_165754_versions\linyuye2004_20250604_165754_temp_v005.png
+2025-06-04 16:58:13,299 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_165754_versions\linyuye2004_20250604_165754_temp_v006.png
+2025-06-04 16:58:20,305 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_165754_versions\linyuye2004_20250604_165754_temp_v007.png
+2025-06-04 16:58:22,308 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_165754_versions\linyuye2004_20250604_165754_temp_v008.png
+2025-06-04 16:58:23,309 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_165754_versions\linyuye2004_20250604_165754_temp_v009.png
+2025-06-04 16:58:24,311 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_165754_versions\linyuye2004_20250604_165754_temp_v010.png
+2025-06-04 16:58:26,909 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
+2025-06-04 16:58:27,314 - INFO - 保存最终版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_165754_versions\linyuye2004_20250604_165754_temp_v011.png
+2025-06-04 17:03:20,491 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_170257_versions\linyuye2004_20250604_170257_temp_v001.png
+2025-06-04 17:03:23,494 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_170257_versions\linyuye2004_20250604_170257_temp_v002.png
+2025-06-04 17:03:23,640 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
+2025-06-04 17:03:24,496 - INFO - 保存最终版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250604_170257_versions\linyuye2004_20250604_170257_temp_v003.png
+2025-06-21 17:52:43,979 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250621_175219_versions\linyuye2004_20250621_175219_temp_v001.png
+2025-06-21 17:52:44,847 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
+2025-06-21 17:52:44,980 - INFO - 保存最终版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250621_175219_versions\linyuye2004_20250621_175219_temp_v002.png
+2025-06-21 18:01:43,884 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250621_180135_versions\linyuye2004_20250621_180135_temp_v001.png
+2025-06-21 18:01:46,901 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250621_180135_versions\linyuye2004_20250621_180135_temp_v002.png
+2025-06-21 18:01:50,913 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250621_180135_versions\linyuye2004_20250621_180135_temp_v003.png
+2025-06-21 18:01:51,634 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
+2025-06-21 18:01:51,914 - INFO - 保存最终版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250621_180135_versions\linyuye2004_20250621_180135_temp_v004.png
+2025-06-21 18:03:42,086 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250621_180328_versions\linyuye2004_20250621_180328_temp_v001.png
+2025-06-21 18:03:42,263 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
+2025-06-21 18:03:43,087 - INFO - 保存最终版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250621_180328_versions\linyuye2004_20250621_180328_temp_v002.png
+2025-06-21 18:13:25,153 - INFO - 自动备份版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250621_181308_versions\linyuye2004_20250621_181308_temp_v001.png
+2025-06-21 18:13:25,253 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
+2025-06-21 18:13:26,154 - INFO - 保存最终版本: D:\PYTHON项目\平台\绘画心理分析v1.1\save_images\linyuye2004_20250621_181308_versions\linyuye2004_20250621_181308_temp_v002.png
+2025-06-21 18:13:45,224 - INFO - HTTP Request: POST https://api.coze.cn/v1/workflow/run "HTTP/1.1 200 OK"
+2025-09-18 19:54:25,364 - INFO - 自动备份版本: d:\PYTHON项目\GitCode比赛\绘画心理分析v1.1\save_images\linyuye2004_20250918_195406_versions\linyuye2004_20250918_195406_temp_v001.png
+2025-09-18 19:54:25,432 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
+2025-09-18 19:54:26,367 - INFO - 保存最终版本: d:\PYTHON项目\GitCode比赛\绘画心理分析v1.1\save_images\linyuye2004_20250918_195406_versions\linyuye2004_20250918_195406_temp_v002.png
+2025-09-18 20:01:57,398 - INFO - 自动备份版本: d:\PYTHON项目\GitCode比赛\绘画心理分析v1.1\save_images\linyuye2004_20250918_200151_versions\linyuye2004_20250918_200151_temp_v001.png
+2025-09-18 20:01:57,427 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
+2025-09-18 20:01:58,403 - INFO - 保存最终版本: d:\PYTHON项目\GitCode比赛\绘画心理分析v1.1\save_images\linyuye2004_20250918_200151_versions\linyuye2004_20250918_200151_temp_v002.png
+2025-09-18 20:17:30,400 - INFO - 自动备份版本: d:\PYTHON项目\GitCode比赛\绘画心理分析v1.1\save_images\linyuye2004_20250918_201716_versions\linyuye2004_20250918_201716_temp_v001.png
+2025-09-18 20:17:30,400 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
+2025-09-18 20:17:31,402 - INFO - 保存最终版本: d:\PYTHON项目\GitCode比赛\绘画心理分析v1.1\save_images\linyuye2004_20250918_201716_versions\linyuye2004_20250918_201716_temp_v002.png
+2025-09-18 20:18:45,850 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
+2025-09-18 20:18:45,852 - INFO - 保存最终版本: d:\PYTHON项目\GitCode比赛\绘画心理分析v1.1\save_images\linyuye2004_20250918_201843_versions\linyuye2004_20250918_201843_temp_v001.png
+2025-09-18 21:53:49,997 - INFO - 自动备份版本: d:\PYTHON项目\GitCode比赛\绘画心理分析v1.1\save_images\linyuye2004_20250918_215322_versions\linyuye2004_20250918_215322_temp_v001.png
+2025-09-18 21:53:58,222 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
+2025-09-18 21:53:59,008 - INFO - 保存最终版本: d:\PYTHON项目\GitCode比赛\绘画心理分析v1.1\save_images\linyuye2004_20250918_215322_versions\linyuye2004_20250918_215322_temp_v002.png

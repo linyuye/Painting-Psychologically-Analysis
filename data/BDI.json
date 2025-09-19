@@ -1,0 +1,527 @@
+[
+            {
+                "question": "情绪低落",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "没有感到悲伤",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "感到有点不开心",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "大部分时间都很沮丧",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "几乎一整天都很沮丧，无法摆脱",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "失望",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "没有感到失望",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "有时感到失望",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "大部分时间都感到失望",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "几乎一直感到失望",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "愉快感",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "没有失去愉悦感",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "偶尔失去愉悦感",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "失去了很多愉悦感",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "完全丧失愉悦感",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "自我评价",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "没有对自己产生负面看法",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "有时对自己有点负面评价",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "常常对自己评价低",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "总是对自己有极其负面的看法",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "自责",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "没有自责",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "有时会自责",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "经常自责",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "总是认为自己很差，甚至是失败的",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "兴趣丧失",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "对大部分事物感兴趣",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "对某些事物失去兴趣",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "对很多事物失去兴趣",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "对几乎所有事物都失去兴趣",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "动力",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "感觉有充足的动力",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "偶尔感到缺乏动力",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "很多时候没有动力",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "几乎总是缺乏动力，无法开始做事",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "睡眠",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "睡眠正常",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "偶尔入睡困难或早醒",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "入睡困难或早醒较为频繁",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "几乎每晚都难以入睡或早醒",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "食欲",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "食欲正常",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "偶尔食欲减退",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "食欲明显下降",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "完全失去食欲",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "体力",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "感觉身体正常",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "有时感到身体疲劳",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "经常感到身体疲劳",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "总是感到身体极度疲劳",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "焦虑",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "不感到焦虑",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "偶尔感到焦虑",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "经常感到焦虑",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "非常焦虑，难以控制",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "愤怒",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "不感到愤怒",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "偶尔有愤怒的情绪",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "经常感到愤怒",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "常常处于愤怒状态，难以控制",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "注意力",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "注意力集中",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "偶尔注意力不集中",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "经常无法集中注意力",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "几乎总是无法集中注意力",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "决策困难",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "没有感到决策困难",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "偶尔感到决策困难",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "经常感到做决定困难",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "几乎无法做出任何决定",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "死亡或自杀的想法",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "没有自杀的念头",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "偶尔有死掉的想法",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "常常想到死或自杀",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "频繁考虑自杀，或有明确的自杀计划",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "无助感",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "没有感到无助",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "偶尔感到无助",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "经常感到无助",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "总是感到无助，无法改变现状",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "绝望感",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "没有感到绝望",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "偶尔感到绝望",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "经常感到绝望",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "总是感到绝望，对未来毫无希望",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "身体症状",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "没有明显的身体不适",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "偶尔有身体不适",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "经常出现身体不适",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "身体不适影响正常生活",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "性兴趣",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "性欲正常",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "性欲有所下降",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "性欲明显下降",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "完全没有性欲",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "工作能力",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "工作表现正常",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "工作表现有所下降",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "工作表现明显下降",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "完全无法进行工作或日常任务",
+                        "score": 3
+                    }
+                ]
+            },
+            {
+                "question": "总感觉",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "感觉良好",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "偶尔感到不安或不舒服",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "经常感到不安或不舒服",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "感到极度不安或不舒服，无法承受",
+                        "score": 3
+                    }
+                ]
+            }
+]

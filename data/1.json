@@ -1,0 +1,1922 @@
+[
+        {
+            "category": "神经质（Neuroticism, N）",
+            "question": "我很容易感到不安。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "神经质（Neuroticism, N）",
+            "question": "我经常感到紧张。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "神经质（Neuroticism, N）",
+            "question": "我对自己和他人不太有信心。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "神经质（Neuroticism, N）",
+            "question": "我感到容易受伤和不开心。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "神经质（Neuroticism, N）",
+            "question": "我常常会感到压抑。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "神经质（Neuroticism, N）",
+            "question": "我不喜欢做危险的事情。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "神经质（Neuroticism, N）",
+            "question": "我常常感到无助。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "神经质（Neuroticism, N）",
+            "question": "我不容易保持冷静。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "神经质（Neuroticism, N）",
+            "question": "我会觉得自己经常遭遇挫折。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "神经质（Neuroticism, N）",
+            "question": "我容易受到情绪波动的影响。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "神经质（Neuroticism, N）",
+            "question": "我对新环境感到紧张和不安。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "神经质（Neuroticism, N）",
+            "question": "我经常会感到心情低落。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "外向性（Extraversion, E）",
+            "question": "我喜欢社交活动。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "外向性（Extraversion, E）",
+            "question": "我觉得自己是一个很开朗的人。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "外向性（Extraversion, E）",
+            "question": "我喜欢在聚会和集会上表现自己。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "外向性（Extraversion, E）",
+            "question": "我喜欢与人交往。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "外向性（Extraversion, E）",
+            "question": "我通常是一个很活跃的人。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "外向性（Extraversion, E）",
+            "question": "我总是充满活力。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "外向性（Extraversion, E）",
+            "question": "我在团体活动中很自信。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "外向性（Extraversion, E）",
+            "question": "我乐于与他人分享我的情感。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "外向性（Extraversion, E）",
+            "question": "我觉得自己很喜欢冒险。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "外向性（Extraversion, E）",
+            "question": "我喜欢做一些有趣的、富有挑战的事情。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "外向性（Extraversion, E）",
+            "question": "我很容易适应新的社交环境。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "外向性（Extraversion, E）",
+            "question": "我通常是一个热情的人。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "开放性（Openness to Experience, O）",
+            "question": "我喜欢尝试新事物。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "开放性（Openness to Experience, O）",
+            "question": "我常常进行不同于常规的思考。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "开放性（Openness to Experience, O）",
+            "question": "我对艺术和美有很高的敏感性。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "开放性（Openness to Experience, O）",
+            "question": "我愿意接受新的观念。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "开放性（Openness to Experience, O）",
+            "question": "我享受有创意的活动。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "开放性（Openness to Experience, O）",
+            "question": "我喜欢探索自己的内心世界。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "开放性（Openness to Experience, O）",
+            "question": "我对不同的文化和思想充满兴趣。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "开放性（Openness to Experience, O）",
+            "question": "我对哲学、宗教等深层次话题有兴趣。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "开放性（Openness to Experience, O）",
+            "question": "我喜欢思想上的刺激和新颖的观念。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "开放性（Openness to Experience, O）",
+            "question": "我觉得自己是一个富有想象力的人。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "开放性（Openness to Experience, O）",
+            "question": "我愿意冒险尝试新事物。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "开放性（Openness to Experience, O）",
+            "question": "我喜欢不断挑战自己，突破自己的舒适区。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "宜人性（Agreeableness, A）",
+            "question": "我喜欢帮助他人。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "宜人性（Agreeableness, A）",
+            "question": "我常常为别人着想。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "宜人性（Agreeableness, A）",
+            "question": "我认为和别人保持和谐关系很重要。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "宜人性（Agreeableness, A）",
+            "question": "我乐于与他人分享。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "宜人性（Agreeableness, A）",
+            "question": "我通常是一个很温和的人。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "宜人性（Agreeableness, A）",
+            "question": "我对他人的感受很敏感。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "宜人性（Agreeableness, A）",
+            "question": "我不容易生气。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "宜人性（Agreeableness, A）",
+            "question": "我经常原谅他人。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "宜人性（Agreeableness, A）",
+            "question": "我觉得与人合作比与人对立更好。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "宜人性（Agreeableness, A）",
+            "question": "我通常能看到他人的优点。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "宜人性（Agreeableness, A）",
+            "question": "我乐意付出时间去帮助他人。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "宜人性（Agreeableness, A）",
+            "question": "我经常关心他人的福祉。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "责任心（Conscientiousness, C）",
+            "question": "我做事很有计划性。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "责任心（Conscientiousness, C）",
+            "question": "我很注重细节。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "责任心（Conscientiousness, C）",
+            "question": "我喜欢按时完成工作。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "责任心（Conscientiousness, C）",
+            "question": "我倾向于按时完成任务。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "责任心（Conscientiousness, C）",
+            "question": "我通常会设定目标并朝着目标努力。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "责任心（Conscientiousness, C）",
+            "question": "我是一个有组织的人。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "责任心（Conscientiousness, C）",
+            "question": "我对自己的工作有很高的标准。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "责任心（Conscientiousness, C）",
+            "question": "我很注重工作中的责任。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "责任心（Conscientiousness, C）",
+            "question": "我有很强的责任心。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "责任心（Conscientiousness, C）",
+            "question": "我能高效地完成工作任务。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "责任心（Conscientiousness, C）",
+            "question": "我通常会优先完成最重要的任务。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        },
+        {
+            "category": "责任心（Conscientiousness, C）",
+            "question": "我喜欢安排好自己的生活。",
+            "type": "radio",
+            "options": [
+                    {
+                        "option": "A",
+                        "description": "强烈同意",
+                        "score": 5
+                    },
+                    {
+                        "option": "B",
+                        "description": "同意",
+                        "score": 4
+                    },
+                    {
+                        "option": "C",
+                        "description": "中立",
+                        "score": 3
+                    },
+                    {
+                        "option": "D",
+                        "description": "不同意",
+                        "score": 2
+                    },
+                    {
+                        "option": "E",
+                        "description": "强烈不同意",
+                        "score": 1
+                    }
+            ]
+        }
+    ]

@@ -1,0 +1,442 @@
+
+    [
+      {
+        "id": 1,
+        "question": "我感到紧张",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 2,
+        "question": "我感到安静",
+        "scoring": "negative",
+        "options": [
+          {"option": "A", "description": "没有", "score": 4},
+          {"option": "B", "description": "很少", "score": 3},
+          {"option": "C", "description": "经常", "score": 2},
+          {"option": "D", "description": "总是", "score": 1}
+        ]
+      },
+      {
+        "id": 3,
+        "question": "我感到放松",
+        "scoring": "negative",
+        "options": [
+          {"option": "A", "description": "没有", "score": 4},
+          {"option": "B", "description": "很少", "score": 3},
+          {"option": "C", "description": "经常", "score": 2},
+          {"option": "D", "description": "总是", "score": 1}
+        ]
+      },
+      {
+        "id": 4,
+        "question": "我感到害怕",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 5,
+        "question": "我感到情绪不安",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 6,
+        "question": "我感到焦虑",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 7,
+        "question": "我感到急躁",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 8,
+        "question": "我感到无助",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 9,
+        "question": "我感到压力",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 10,
+        "question": "我感到冷静",
+        "scoring": "negative",
+        "options": [
+          {"option": "A", "description": "没有", "score": 4},
+          {"option": "B", "description": "很少", "score": 3},
+          {"option": "C", "description": "经常", "score": 2},
+          {"option": "D", "description": "总是", "score": 1}
+        ]
+      },
+      {
+        "id": 11,
+        "question": "我感到惊恐",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 12,
+        "question": "我感到不安",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 13,
+        "question": "我感到烦躁",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 14,
+        "question": "我感到心跳加速",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 15,
+        "question": "我感到恐惧",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 16,
+        "question": "我感到震惊",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 17,
+        "question": "我感到紧张不安",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 18,
+        "question": "我感到心情低落",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 19,
+        "question": "我感到不确定",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 20,
+        "question": "我感到兴奋",
+        "scoring": "negative",
+        "options": [
+          {"option": "A", "description": "没有", "score": 4},
+          {"option": "B", "description": "很少", "score": 3},
+          {"option": "C", "description": "经常", "score": 2},
+          {"option": "D", "description": "总是", "score": 1}
+        ]
+      },
+      {
+        "id": 1,
+        "question": "我经常感到紧张",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 2,
+        "question": "我容易害怕",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 3,
+        "question": "我很容易感到不安",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 4,
+        "question": "我容易焦虑",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 5,
+        "question": "我经常感到急躁",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 6,
+        "question": "我总是容易感到不安",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 7,
+        "question": "我总是很容易担忧",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 8,
+        "question": "我常常感到压力",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 9,
+        "question": "我觉得自己总是在紧张的状态下",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 10,
+        "question": "我总是感到紧张",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 11,
+        "question": "我担心即将发生的事情",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 12,
+        "question": "我总是对事情担忧",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 13,
+        "question": "我感到自己很容易害怕",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 14,
+        "question": "我容易产生烦躁的情绪",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 15,
+        "question": "我对自己总是充满疑虑",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 16,
+        "question": "我感觉很容易受到情绪困扰",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 17,
+        "question": "我容易对未知的事情产生恐惧",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 18,
+        "question": "我总是担心自己做不好事情",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 19,
+        "question": "我很难保持冷静",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]
+      },
+      {
+        "id": 20,
+        "question": "我经常为未来的事情而焦虑",
+        "scoring": "positive",
+        "options": [
+          {"option": "A", "description": "没有", "score": 1},
+          {"option": "B", "description": "很少", "score": 2},
+          {"option": "C", "description": "经常", "score": 3},
+          {"option": "D", "description": "总是", "score": 4}
+        ]}
+]

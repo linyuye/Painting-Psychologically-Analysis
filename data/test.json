@@ -1,0 +1,27 @@
+[
+            {
+                "question": "情绪低落",
+                "options": [
+                    {
+                        "option": "A",
+                        "description": "没有感到悲伤",
+                        "score": 0
+                    },
+                    {
+                        "option": "B",
+                        "description": "感到有点不开心",
+                        "score": 1
+                    },
+                    {
+                        "option": "C",
+                        "description": "大部分时间都很沮丧",
+                        "score": 2
+                    },
+                    {
+                        "option": "D",
+                        "description": "几乎一整天都很沮丧，无法摆脱",
+                        "score": 3
+                    }
+                ]
+            }
+]
