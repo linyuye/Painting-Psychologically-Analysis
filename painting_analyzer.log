@@ -53,3 +53,6 @@
 2025-09-18 21:53:49,997 - INFO - 自动备份版本: d:\PYTHON项目\GitCode比赛\绘画心理分析v1.1\save_images\linyuye2004_20250918_215322_versions\linyuye2004_20250918_215322_temp_v001.png
 2025-09-18 21:53:58,222 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
 2025-09-18 21:53:59,008 - INFO - 保存最终版本: d:\PYTHON项目\GitCode比赛\绘画心理分析v1.1\save_images\linyuye2004_20250918_215322_versions\linyuye2004_20250918_215322_temp_v002.png
+2025-09-19 17:55:27,462 - INFO - 自动备份版本: d:\PYTHON项目\GitCode比赛\绘画心理分析v1.1\save_images\linyuye2004_20250919_175435_versions\linyuye2004_20250919_175435_temp_v001.png
+2025-09-19 17:55:29,313 - ERROR - 自动保存异常: _capture_active_window() missing 1 required positional argument: 'app'
+2025-09-19 17:55:29,469 - INFO - 保存最终版本: d:\PYTHON项目\GitCode比赛\绘画心理分析v1.1\save_images\linyuye2004_20250919_175435_versions\linyuye2004_20250919_175435_temp_v002.png

@@ -1,0 +1,115 @@
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+获取历史记录详情，ID: 6899df9e32e010493e4ec122
+找到记录: new ObjectId('6899df9e32e010493e4ec122')
+获取历史记录详情，ID: 6899d46732e010493e4ec121
+找到记录: new ObjectId('6899d46732e010493e4ec121')
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+获取历史记录详情，ID: 6899f1168879d1b0509c2455
+找到记录: new ObjectId('6899f1168879d1b0509c2455')
+获取历史记录详情，ID: 6899f1168879d1b0509c2455
+找到记录: new ObjectId('6899f1168879d1b0509c2455')
+获取历史记录详情，ID: 6899f3878879d1b0509c245a
+找到记录: new ObjectId('6899f3878879d1b0509c245a')
+删除历史记录，ID: 6899f3878879d1b0509c245a
+成功删除记录: 6899f3878879d1b0509c245a
+删除历史记录，ID: 6899e75d32e010493e4ec123
+成功删除记录: 6899e75d32e010493e4ec123
+删除历史记录，ID: 6899e91d32e010493e4ec124
+成功删除记录: 6899e91d32e010493e4ec124
+删除历史记录，ID: 6899eb968879d1b0509c2450
+成功删除记录: 6899eb968879d1b0509c2450
+删除历史记录，ID: 6899ebd28879d1b0509c2451
+成功删除记录: 6899ebd28879d1b0509c2451
+获取历史记录详情，ID: 6899f1168879d1b0509c2455
+找到记录: new ObjectId('6899f1168879d1b0509c2455')
+获取历史记录详情，ID: 6899df9e32e010493e4ec122
+找到记录: new ObjectId('6899df9e32e010493e4ec122')
+获取历史记录详情，ID: 6899f97a8879d1b0509c245c
+找到记录: new ObjectId('6899f97a8879d1b0509c245c')
+删除历史记录，ID: 6899f97a8879d1b0509c245c
+成功删除记录: 6899f97a8879d1b0509c245c
+获取历史记录详情，ID: 6899fd328879d1b0509c245d
+找到记录: new ObjectId('6899fd328879d1b0509c245d')
+删除历史记录，ID: 689a0e798879d1b0509c246a
+成功删除记录: 689a0e798879d1b0509c246a
+删除历史记录，ID: 689a0e528879d1b0509c2469
+成功删除记录: 689a0e528879d1b0509c2469
+删除历史记录，ID: 689a0e158879d1b0509c2468
+成功删除记录: 689a0e158879d1b0509c2468
+删除历史记录，ID: 689a0de78879d1b0509c2467
+成功删除记录: 689a0de78879d1b0509c2467
+删除历史记录，ID: 689a0db78879d1b0509c2466
+成功删除记录: 689a0db78879d1b0509c2466
+删除历史记录，ID: 689a07418879d1b0509c2462
+成功删除记录: 689a07418879d1b0509c2462
+删除历史记录，ID: 689a03ac8879d1b0509c2461
+成功删除记录: 689a03ac8879d1b0509c2461
+删除历史记录，ID: 689a00aa8879d1b0509c245f
+成功删除记录: 689a00aa8879d1b0509c245f
+删除历史记录，ID: 6899fd328879d1b0509c245d
+成功删除记录: 6899fd328879d1b0509c245d
+删除历史记录，ID: 6899f93b8879d1b0509c245b
+成功删除记录: 6899f93b8879d1b0509c245b
+删除历史记录，ID: 6899f1168879d1b0509c2455
+成功删除记录: 6899f1168879d1b0509c2455
+删除历史记录，ID: 6899f93b8879d1b0509c245b
+要删除的记录不存在, ID: 6899f93b8879d1b0509c245b
+删除历史记录，ID: 6899fda08879d1b0509c245e
+成功删除记录: 6899fda08879d1b0509c245e
+获取历史记录详情，ID: 689a88798879d1b0509c246b
+找到记录: new ObjectId('689a88798879d1b0509c246b')
+获取历史记录详情，ID: 689a8fe18879d1b0509c246c
+找到记录: new ObjectId('689a8fe18879d1b0509c246c')
+登录错误: TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+    at /root/painting/auth/server.js:124:17
+    at Layer.handleRequest (/root/painting/auth/node_modules/router/lib/layer.js:152:17)
+    at next (/root/painting/auth/node_modules/router/lib/route.js:157:13)
+    at Route.dispatch (/root/painting/auth/node_modules/router/lib/route.js:117:3)
+    at handle (/root/painting/auth/node_modules/router/index.js:435:11)
+    at Layer.handleRequest (/root/painting/auth/node_modules/router/lib/layer.js:152:17)
+    at /root/painting/auth/node_modules/router/index.js:295:15
+    at processParams (/root/painting/auth/node_modules/router/index.js:582:12)
+    at next (/root/painting/auth/node_modules/router/index.js:291:5)
+    at cors (/root/painting/auth/node_modules/cors/lib/index.js:188:7)
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+获取历史记录详情，ID: 68aa6fd5463cd7123375adbd
+找到记录: new ObjectId('68aa6fd5463cd7123375adbd')
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+[2025-10-20T08:27:59.998Z] 注册账户: 123, IP: ::ffff:123.168.74.240
+获取历史记录详情，ID: 68f5f318375ab9cf9dbca071
+找到记录: new ObjectId('68f5f318375ab9cf9dbca071')
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000
+删除历史记录，ID: 68f44819375ab9cf9dbca070
+成功删除记录: 68f44819375ab9cf9dbca070
+删除历史记录，ID: 68f444cc375ab9cf9dbca06f
+成功删除记录: 68f444cc375ab9cf9dbca06f
+删除历史记录，ID: 68f440df0f78befd4c0ba2cc
+成功删除记录: 68f440df0f78befd4c0ba2cc
+获取历史记录详情，ID: 68f4443d375ab9cf9dbca06e
+找到记录: new ObjectId('68f4443d375ab9cf9dbca06e')
+获取历史记录详情，ID: 68f5f90642117ebe9abc67e3
+找到记录: new ObjectId('68f5f90642117ebe9abc67e3')
+[2025-10-23T12:54:40.375Z] 注册账户: 00635, IP: ::ffff:223.81.192.194
+[2025-10-23T13:17:53.402Z] 注册账户: Charles, IP: ::ffff:112.9.243.233
+获取历史记录详情，ID: 68f788da42117ebe9abc67e4
+找到记录: new ObjectId('68f788da42117ebe9abc67e4')
+[2025-10-23T15:59:33.481Z] 注册账户: Luatin, IP: ::ffff:144.12.209.120
+获取历史记录详情，ID: 68f788da42117ebe9abc67e4
+找到记录: new ObjectId('68f788da42117ebe9abc67e4')
+认证服务器运行在端口 3000
+认证服务器运行在端口 3000

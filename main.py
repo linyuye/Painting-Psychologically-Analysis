@@ -2,7 +2,6 @@ import tkinter as tk
 from auth_window import AuthWindow
 from painting_analyzer_app import PaintingAnalyzerApp
 from user_db import UserDB
-linyuye2004 = "linyuye2004"
 
 # ------------------------- 应用入口 -------------------------
 class Application:

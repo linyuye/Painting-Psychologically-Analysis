@@ -1,3 +1,5 @@
-Pillow
-gimpformats
-watchdog
+Pillow>=9.0.0
+requests>=2.25.1
+pywin32>=227
+gimpformats>=2022.8.7
+watchdog>=2.1.9
