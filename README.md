@@ -25,6 +25,9 @@
 - `auth/` - 用户认证服务
 - `WBO白板/whitebophir/` - 在线绘画白板
 
+### Mongod数据库  
+- 本项目依赖于Mongod数据库，确保数据库中有dbName = 'psychology_analysis'; collectionName = 'analysis_records';  
+
 ## 安装说明
 
 ### 1. Python环境配置
@@ -79,6 +82,7 @@ python main.py
 
 - `token.txt` - 需要配置百度千帆API密钥
 - API地址：https://qianfan.baidubce.com/v2/app/conversation
+- 服务器token：绘画心理分析v1.1 - 副本\WBO白板\whitebophir\server\server.js或者绘画心理分析v1.1 - 副本\WBO白板\whitebophir\server\token.txt  
 
 ## 依赖要求
 
